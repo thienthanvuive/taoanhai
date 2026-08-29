@@ -1,0 +1,6 @@
+{
+  "name": "AI NTT THIẾT KẾ ẢNH PRO",
+  "description": "Chuyên gia phân tích bố cục hình ảnh và sinh Prompt AI chụp ảnh, studio, tiên hiệp, CGI siêu chân thực tỷ lệ 16:9",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
